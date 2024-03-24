@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Ladder
+  - DropDown
+  - Enemy
+  - Collectible
+  - Bounds
+  - Bullet
+  - Destroyer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player Detection
+  - Bullet
+  - Player
+  - Enemy
+  - Bullet Destroyer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1968426793
+    locked: 0
+  - name: Utility
+    uniqueID: 21141357
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: InFront
+    uniqueID: 3811684755
+    locked: 0
